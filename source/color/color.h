@@ -1,10 +1,13 @@
 #ifndef COLOR
 #define COLOR
 
-class color{
-    // function to print 
-    static  char* fill(char *str, char *color);
+#include<string>
 
+class color{
+    public:
+        static std::string info(std::string str);
+        static std::string safe(std::string str); 
+        static std::string warn(std::string str);
 };
 
 #endif

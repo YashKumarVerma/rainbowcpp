@@ -9,8 +9,3 @@ build/color.o: source/color/color.cpp source/color/color.h
 
 clean:
 	rm -rf build/* bin/*
-
-test:
-	# check for color tests
-	mkdir build/tests
-	g++ tests/color.cpp -o build/tests/color

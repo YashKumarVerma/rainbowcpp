@@ -1,6 +1,7 @@
 #builds
 build
 bin
+test.*
 
 # Prerequisites
 *.d
