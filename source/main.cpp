@@ -1,11 +1,11 @@
 #include<iostream>
-#include"./format/format.h"
+#include"./rainbow/rainbow.h"
 
 using namespace std;
 
 int main(){
 
-    cout << format::safe("SPOTDL") << endl;
+    cout << rainbow::safe("SPOTDL") << endl;
 
     return 0;
 }

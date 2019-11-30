@@ -1,8 +1,7 @@
-# SPOTDL 
+# RAINBOW :rainbow: 
 [![Build Status](https://travis-ci.com/YashKumarVerma/spotdl.svg?branch=master)](https://travis-ci.com/YashKumarVerma/spotdl)
 
-a port of the original spotdl python module written in c
-
+a handy package to format (and obviously color !) C++
 ---
 
 ***Maintainers***

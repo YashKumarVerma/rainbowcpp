@@ -1,8 +1,8 @@
 #include<string>
-#include "format.h"
+#include"rainbow.h"
 
 
-std::string format::info(std::string str){
+std::string rainbow::info(std::string str){
     std::string x;
     x.append("\e[33m");
     x.append(str);
@@ -10,7 +10,7 @@ std::string format::info(std::string str){
     return x;
 }
 
-std::string format::safe(std::string str){
+std::string rainbow::safe(std::string str){
     std::string x;
     x.append("\e[32m");
     x.append(str);
@@ -18,7 +18,7 @@ std::string format::safe(std::string str){
     return x;
 }
 
-std::string format::warn(std::string str){
+std::string rainbow::warn(std::string str){
     std::string x;
     x.append("\e[31m");
     x.append(str);
