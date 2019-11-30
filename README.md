@@ -1,5 +1,5 @@
 # RAINBOW :rainbow: 
-[![Build Status](https://travis-ci.com/YashKumarVerma/spotdl.svg?branch=master)](https://travis-ci.com/YashKumarVerma/spotdl)
+[![Build Status](https://travis-ci.com/YashKumarVerma/rainbowcpp.svg?branch=master)](https://travis-ci.com/YashKumarVerma/rainbowcpp)
 
 a handy package to format (and obviously color !) C++
 ---
