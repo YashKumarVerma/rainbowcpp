@@ -10,8 +10,9 @@ compiler:
 os:
 - linux
   
-# before_install:
-# -   
+before_install:
+- mkdir bin
+- mkdir build   
 
 script:
 - make
